@@ -4,4 +4,4 @@
 
 ![cube](cube.gif)
 
-Demo请戳 <http://codepen.io/chZoe/pen/PzNyZE>
+Demo请戳 <http://codepen.io/chZoe/pen/OXpXjO>
